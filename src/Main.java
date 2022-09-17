@@ -5,6 +5,7 @@ public class Main {
         int  maxINT = 50;
         int minVal = Integer.MIN_VALUE;
         int maxVal = Integer.MAX_VALUE;
+        System.out.println(minVal);
 
     }
 }
